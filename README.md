@@ -9,8 +9,8 @@ Sou formado em Análise e Desenvolvimento de Sistemas, com experiência em supor
 <p align="left">
   <a href="https://www.linkedin.com/in/wgangelim/" target="_blank">
     <img 
-        width="100px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
 </p>
 
@@ -108,26 +108,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas, com experiência em supor
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-
-
-
-<img 
-    align="left" 
     alt="docker" 
     title="docker"
     width="30px" 
@@ -181,6 +161,25 @@ Sou formado em Análise e Desenvolvimento de Sistemas, com experiência em supor
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Github" 
+    title="Github"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
 
 <br/>
 <br/>
